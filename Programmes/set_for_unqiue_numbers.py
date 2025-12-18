@@ -1,0 +1,21 @@
+set = set()
+
+n1 = int(input("enter your number:"))
+set.add(n1)
+n2 = int(input("enter your number:"))
+set.add(n2)
+n3 = int(input("enter your number:"))
+set.add(n3)
+n4 = int(input("enter your number:"))
+set.add(n4)
+n5 = int(input("enter your number:"))
+set.add(n5)
+n6 = int(input("enter your number:"))
+set.add(n6)
+n7 = int(input("enter your number:"))
+set.add(n7)
+n8 = int(input("enter your number:"))
+set.add(n8)
+
+
+print(set)
